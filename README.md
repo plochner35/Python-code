@@ -1,2 +1,2 @@
 # Python-code
-Python scripts and notebooks
+Python scripts and practice notebooks
